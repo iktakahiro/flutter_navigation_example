@@ -1,6 +1,6 @@
 # flutter_navigation_example
 
-A new Flutter project.
+![](./flutter_navigation.gif)
 
 ## Getting Started
 
